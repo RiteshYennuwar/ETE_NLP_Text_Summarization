@@ -1,6 +1,4 @@
-# End-to-End NLP Text Summarizer
-
-## Project on hold due to my sem exams
+# End-to-End NLP Text Summarizer
 
 ## Overview
 
